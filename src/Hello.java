@@ -13,7 +13,9 @@ public class Hello {
 		System.out.println("Hello A!");
 	}
 
-	public void methodB(void) { }
+	public void methodB() {
+		System.out.println("Keith is awesome. Carmen is less awesome.");
+	}
 
 	public void methodC(void) { }
 }

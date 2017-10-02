@@ -17,9 +17,11 @@ public class Hello {
 		System.out.println("Keith is awesome. Carmen is less awesome.");
 	}
 
+
 	public void methodC() { 
 		for(int i = 0; i < 10; i++){
 			System.out.println("today is monday :(");
 		}
 	}
+
 }
